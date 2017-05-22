@@ -19,10 +19,10 @@ exports.livenet = {
     hash: hex('e339b965425904c15cfc81968617ec0246da98bd212ec07c2891218f4d0d0000'),
     merkle_root: hex('62871020f6bc233fb1df06901061be04696ece351350e980645412a8de336a5d'),
     height: 0,
-    nonce: 609410,
+    nonce: 644649,
     version: 1,
     prev_hash: buffertools.fill(new Buffer(32), 0),
-    timestamp: 1488279877,
+    timestamp: 1490278158,
     bits: 520159231,
   },
   dnsSeeds: [
